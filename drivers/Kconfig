@@ -216,4 +216,13 @@ source "drivers/tee/Kconfig"
 source "drivers/mux/Kconfig"
 
 source "drivers/trusty/Kconfig"
+
+source "drivers/sensors/Kconfig"
+
+source "drivers/esoc/Kconfig"
+
+source "drivers/infrared_proximity/Kconfig"
+
+source "drivers/kernelsu/Kconfig"
+
 endmenu
