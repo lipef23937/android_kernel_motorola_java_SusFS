@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: GPL-2.0
+xt# SPDX-License-Identifier: GPL-2.0
 #
 # Makefile for the Linux kernel device drivers.
 #
@@ -186,4 +186,4 @@ obj-$(CONFIG_TEE)		+= tee/
 obj-$(CONFIG_MULTIPLEXER)	+= mux/
 obj-$(CONFIG_TRUSTY)      	+= trusty/
 obj-$(CONFIG_GNSS)		+= gnss/
-obj-$(CONFIG_KSU) += kernelsu/
+obj-$(CONFIG_KSU) += kernelsu-next/
