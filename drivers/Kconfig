@@ -217,6 +217,6 @@ source "drivers/mux/Kconfig"
 
 source "drivers/trusty/Kconfig"
 
-source "drivers/kernelsu-next/Kconfig"
+source "drivers/kernel/Kconfig"
 
 endmenu
